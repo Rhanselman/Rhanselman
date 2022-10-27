@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rhanselman
 - 
 - 👀 I’m interested in ... How humans assign value, "confirm" reality through "observations" with the > the number of Observers cementing "reality".
-- How the past defines the present, and how that projects into the future from the changeable "now". Chaos theory, in particular how starting conditions yield a vastly 
-- different result over time. Information Exchange, (follow the leak, rumor, find the mole, etc)
+- How the past defines the present, and how that projects into the future from the changeable "now". Chaos theory, in particular how starting conditions yield a vastly - different result over time. Information Exchange, (follow the leak, rumor, find the mole, etc)
 - 
 - 🌱 I’m currently learning ... GitHub, ML/AI processes, Differential Equations, Linear Algebra, Combinatorics, Statistics
 - 
@@ -14,12 +13,9 @@
 Rhanselman/Rhanselman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I floated through high school without applying myself. That carried into my undergrad where I had to change from my topic of interest (math) to just getting the
-closest degree to graduation (finance). I had plenty on my mind during all that time and am honestly surprised I learned anything at all. Maybe I had bad teachers, 
-maybe I didn't try, maybe i've finally woken up from my trauma to finally have initiative and ambition.
+I floated through high school without applying myself. That carried into my undergrad where I had to change from my topic of interest (math) to just getting the closest degree to graduation (finance). I had plenty on my mind during all that time and am honestly surprised I learned anything at all. Maybe I had bad teachers, maybe I didn't try, maybe i've finally woken up from my trauma to finally have initiative and ambition.
 
-I've thought of a problem that hasn't really been broached in any of my research. But depending on how the generalized formula is applied, can yield insight to ML and AI decisions during
-the unsupervised learning phase. (for starters)
+I've thought of a problem that hasn't really been broached in any of my research. But depending on how the generalized formula is applied, can yield insight to ML and AI decisions during the unsupervised learning phase. (for starters)
 
 The furtherst I've gotten so far is explaining this problem in 2D is as follows:
 
@@ -51,8 +47,7 @@ Data stream can be "locked in" through convergence and partition a "follower".
 
 
 
-The ways such a process and equation would be useful is in weather forecasts, information dissemination, network security, genetic mutations, national security, privacy
-quantum research, Neurology, and other applications I haven't thought of off the top of my head.
+The ways such a process and equation would be useful is in weather forecasts, information dissemination, network security, genetic mutations, national security, privacy, quantum research, Neurology, and other applications I haven't thought of off the top of my head.
 
 
 --------------------------------------
