@@ -7,7 +7,7 @@
 - 
 - 💞️ I’m looking to collaborate on ... Implementing something that I may get an unofficial PhD in. (see below)
 - 
-- 📫 How to reach me ... My email. hanselman.d.ryan@gmail.com , see my PGP key below.
+- 📫 How to reach me ... My email. hanselman.ryan@gmail.com , see my PGP key below.
 
 <!---
 Rhanselman/Rhanselman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
