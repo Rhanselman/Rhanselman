@@ -5,7 +5,7 @@
 - 
 - 🌱 I’m currently learning ... GitHub, ML/AI processes, Differential Equations, Linear Algebra, Combinatorics, Statistics
 - 
-- 💞️ I’m looking to collaborate on ... Implementing something that I may get an unofficial PhD in. (see below)
+-  I’m looking to collaborate on ... Implementing something that I may get an unofficial PhD in. (see below)
 - 
 - 📫 How to reach me ... My email. hanselman.ryan@gmail.com , see my PGP key below.
 
@@ -56,20 +56,7 @@ Of course I could just be thinking incorrectly about all of this as I study more
 I only know what I know, and I dont know much.
 Also maybe I'm treating matrices incorrectly, as they're just systems of equations.
 
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mDMEY1oAshYJKwYBBAHaRw8BAQdATDkRjoVLfdnTBf98OOMPwkRJJGxhYph7u4Et
-1yEcRYu0EEhhbnNlbG1hbi5ELlJ5YW6ImQQTFgoAQRYhBDWrhv06bHoYvTD3SlBi
-ApVeUJNUBQJjWgCyAhsjBQkDwzt+BQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheA
-AAoJEFBiApVeUJNUVMIBAK6stOG0c2bqkY6+y0lgVhTVsNq63TqR7tSaOQMtfXRp
-AQC6wmxPlGh3FY+19xWvo6qVUR6lbtenMc7eZ7K3jiy+DLg4BGNaALISCisGAQQB
-l1UBBQEBB0DYVXuDOmXBm9h30/GZf1/14SueEO966oJuBzQpjtzwNQMBCAeIfgQY
-FgoAJhYhBDWrhv06bHoYvTD3SlBiApVeUJNUBQJjWgCyAhsMBQkDwzt+AAoJEFBi
-ApVeUJNUD8EBAOwXa2yeOBk12DQ3oTnyvBbZVCIVNV75BerEnu8pHiSFAP0U1SaW
-W3vWJxM8Gq5NnNTqUJgmc2dZWDtZGmKGX2LsDQ==
-=ALkK
------END PGP PUBLIC KEY BLOCK-----  
-
+I seemed to have lost my my PGP key, so disregard the old one.
 
 Tempus Edax Rerum 
 
